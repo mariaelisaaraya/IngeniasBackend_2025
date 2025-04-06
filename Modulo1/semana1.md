@@ -93,7 +93,7 @@ Las variables locales solo pueden ser usadas en su función o bloque.
 
 ---
 
-¿Qué es **undefined** y para que sirve en JavaScript?
+## ¿Qué es **undefined** y para que sirve en JavaScript?
 
 **undefined** es un tipo especial de valor en JavaScript que significa que “algo no tiene valor asignado”.
 
