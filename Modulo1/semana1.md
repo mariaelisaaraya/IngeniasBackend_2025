@@ -18,6 +18,7 @@ let persona = { nombre: "María", edad: 30, ciudad: "Buenos Aires" };
 ```
 
 🔹 Usar un array si solo necesitas una lista ordenada de datos.
+
 🔹 Usar un objeto si necesitas describir algo con propiedades y valores.
 
 ---
@@ -56,3 +57,36 @@ let persona = {
 ```
 
 💡 Conclusión: Tanto en arrays como en objetos, los valores pueden ser de cualquier tipo, incluso otros arrays u objetos. 🚀
+
+---
+
+## 📌 ¿Qué es el scope en JavaScript?
+
+El **scope** (ámbito) en JavaScript es la zona del código donde una variable es accesible. Tipos de Scope:
+
+1️⃣ Global 🌍 → La variable se puede usar en todo el código.
+
+2️⃣ Local 🔒 → La variable solo se puede usar dentro de una función o bloque.
+
+```js
+let globalVar = "Soy global"; // Se puede usar en cualquier parte
+
+function ejemplo() {
+  let localVar = "Soy local"; // Solo existe dentro de esta función
+  console.log(globalVar); // ✅ Puede acceder a globalVar
+  console.log(localVar); // ✅ Puede acceder a localVar
+}
+
+ejemplo();
+
+console.log(globalVar); // ✅ Funciona
+console.log(localVar); // ❌ Error, porque localVar solo existe dentro de la función
+```
+
+💡 Regla general:
+
+Las variables globales pueden ser usadas en cualquier parte.
+
+Las variables locales solo pueden ser usadas en su función o bloque.
+
+🔹 Usar variables locales es mejor porque evita errores y mantiene el código más seguro. 🚀
