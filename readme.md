@@ -18,6 +18,7 @@ Durante el curso se usará **Visual Studio Code** como editor de código pero po
   - Clase 01 Introducción a la Programación Backend
   - Clase 02 Manejo de arrays y Syntactic Sugar
   - Apuntes de las consultas de la [Semana 1](https://github.com/mariaelisaaraya/IngeniasBackend_2025/blob/main/Modulo1/semana1.md)
+  - Videos extras con mini [explicaciones](https://www.youtube.com/playlist?list=PLAjgFPDn_JFHz3c7a1_4vXavnpt4YP6aK)
 
 ## 🔸 Enlace al Curso
 
