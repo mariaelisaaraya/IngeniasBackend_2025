@@ -90,3 +90,53 @@ Las variables globales pueden ser usadas en cualquier parte.
 Las variables locales solo pueden ser usadas en su función o bloque.
 
 🔹 Usar variables locales es mejor porque evita errores y mantiene el código más seguro. 🚀
+
+---
+
+¿Qué es **undefined** y para que sirve en JavaScript?
+
+**undefined** es un tipo especial de valor en JavaScript que significa que “algo no tiene valor asignado”.
+
+🔹 Es el valor por defecto de:
+
+- Una variable que fue declarada pero no inicializada
+
+- Una función que no tiene return, devuelve undefined
+
+- Cuando intentás acceder a una propiedad o índice que no existe
+
+```js
+let x;
+console.log(x); // 👉 undefined (la variable existe pero no tiene valor)
+
+function saludar() {
+  console.log("Hola");
+}
+let resultado = saludar(); // imprime "Hola"
+console.log(resultado); // 👉 undefined (la función no devuelve nada)
+
+let persona = { nombre: "Elisa" };
+console.log(persona.edad); // 👉 undefined (no existe la propiedad "edad")
+```
+
+🛠 ¿Para qué sirve **undefined**?
+
+No es algo que “se use”, como una herramienta, sino que:
+
+- JavaScript lo usa automáticamente para decir “esto no tiene valor”
+
+- Te ayuda a detectar errores o comportamientos inesperados
+
+- Podés usarlo para verificar si algo fue definido o no
+
+```js
+if (usuario === undefined) {
+  console.log("El usuario no está definido");
+}
+```
+
+🚫 Diferencia con null:
+
+- undefined: valor no asignado automáticamente
+
+- null: valor asignado a propósito para decir "vacío"
