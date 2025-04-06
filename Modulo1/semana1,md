@@ -15,4 +15,6 @@ let frutas = ["manzana", "banana", "uva"];
 
 // Objeto (propiedades con claves y valores)
 let persona = { nombre: "María", edad: 30, ciudad: "Buenos Aires" };
-```
+
+
+
