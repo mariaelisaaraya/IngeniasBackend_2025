@@ -1,0 +1,18 @@
+# Apuntes por 3lisa Araya para Ingenias ✨
+
+---
+
+## 📌 ¿Cuál es la diferencia entre arrays, elementos y objetos?
+
+Un **array** es una lista ordenada de elementos, mientras que un **objeto** es una colección de pares clave-valor.
+
+- **Array**: Se usa para almacenar múltiples valores en una sola variable. Los elementos tienen un índice numérico.
+- **Objeto**: Se usa para representar cosas con propiedades. Cada propiedad tiene un nombre (clave) y un valor.
+
+```js
+// Array (lista de elementos)
+let frutas = ["manzana", "banana", "uva"];
+
+// Objeto (propiedades con claves y valores)
+let persona = { nombre: "María", edad: 30, ciudad: "Buenos Aires" };
+```
