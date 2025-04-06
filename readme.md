@@ -15,9 +15,9 @@ Durante el curso se usará **Visual Studio Code** como editor de código pero pu
 #### Módulo 1 - Servidores Web y Api Restful -
 
 - Semanas 1:
-- Clase 01 Introducción a la Programación Backend
-- Clase 02 Manejo de arrays y Syntactic Sugar
-- Apuntes de las consultas de las clases
+  - Clase 01 Introducción a la Programación Backend
+  - Clase 02 Manejo de arrays y Syntactic Sugar
+  - Apuntes de las consultas de la [Semana 1](https://github.com/mariaelisaaraya/IngeniasBackend_2025/blob/main/Modulo1/semana1.md)
 
 ## 🔸 Enlace al Curso
 
