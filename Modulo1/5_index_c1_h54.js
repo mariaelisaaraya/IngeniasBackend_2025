@@ -1,4 +1,4 @@
-//El ejemplo de la ppt esta mal, ojo, que creen que esta mal?
+//El ejemplo de la ppt esta mal, ojoTA
 
 /*
 function obtenerMaximo(num1, num2, num3){
@@ -10,9 +10,10 @@ obtenerMaximo(2, 5, 10)
 
 //Dentro de Math.max() no se está usando los parámetros (num1, num2, num3) 
 //En el ejemplo se escribe directamente los números 1, 4, 10, así que la función siempre comparará esos valores fijos.
-//ademas tampoco tiene console.log
+//tampoco tiene console.log
 
 //Entonces ahora te la paso con la correccion:
+
 //la funcion tiene 3 parametros
 function obtenerMaximo(num1, num2, num3) {
     return Math.max(num1, num2, num3);
