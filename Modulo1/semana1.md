@@ -1,4 +1,4 @@
-# Apuntes por 3lisa Araya para Ingenias ✨
+# Apuntes por 3lisa Araya para Backend ✨
 
 ---
 
