@@ -1,25 +1,83 @@
-## Curso de Backend 2025 - Ingenias +
+# Curso de Frontend 2025 - Ingenias + YPF
 
-¡Bienvenidas! 👋 Este repositorio contiene las consultas semanales de las Alumnas del curso de Curso de Backend.
+![Curso](https://img.shields.io/badge/Backend-2025-blue)
+![Modalidad](https://img.shields.io/badge/Modalidad-Online-lightgrey)
+![CopilotaDev](https://img.shields.io/badge/CopilotaDev-Lisa-purple)
+![Estado](https://img.shields.io/badge/Estado-Activo-brightgreen)
 
 ---
 
-## 🔸 Conocimientos Previos y Herramientas
+¡Bienvenidas! 👋  
+
+Soy Lisa, y este repositorio está pensado para acompañarte durante toda la cursada del Curso de Backend 2025.  
+
+Acá vas a encontrar:
+
+✨ Consultas semanales de las alumnas  
+📌 Fechas importantes y entregas  
+📚 Recursos clave para no perderte nada  
+
+Todo armado con mucho cuidado para que tengas una guía clara, accesible y actualizada.
+
+## 🔸 Conocimientos Previos 🛠️ Herramientas
 
 Para tomar el curso hay que tener conocimientos previos de **JavaScript** ya que Node.js es un entorno de ejecución de JavaScript.
 
 Se recomienda tener conocimentos previos de funciones flecha, métodos, objetos, `.map()`, `.filter()`, `require()`, `.findIndex()`, y `.sort()`.
 
-Durante el curso se usará **Visual Studio Code** como editor de código pero podés trabajar con el editor de código o IDE que quieras. Las clases son explicadas con Visual Studio Code y con el sistema operativo Windows.
+Durante las clases usamos:
 
-#### Módulo 1 - Servidores Web y Api Restful -
+- **Visual Studio Code** como editor principal  
+- **Windows** como sistema operativo base
 
-- Semanas 1:
-  - Clase 01 Introducción a la Programación Backend
-  - Clase 02 Manejo de arrays y Syntactic Sugar
-  - Apuntes de las consultas de la [Semana 1](https://github.com/mariaelisaaraya/IngeniasBackend_2025/blob/main/Modulo1/semana1.md)
-  - Videos extras con mini [explicaciones](https://www.youtube.com/playlist?list=PLAjgFPDn_JFHz3c7a1_4vXavnpt4YP6aK)
+Pero podés usar el editor o IDE que prefieras. Lo importante es que te sientas cómoda y puedas enfocarte en aprender.
 
-## 🔸 Enlace al Curso
+---
+## 📅 Cronograma
 
-El curso se encuentra en el campus de YPF, haz clic en este enlace: [CampusYPF](https://campus.educalabs.org/course/view.php?id=865)
+#### 🗓️ Calendario Módulo 1: Servidores Web y Api Restful
+
+**Inicio:** Martes 01/04/2025  
+**Clases:** Martes y jueves  
+
+**Feriados considerados:**
+- Jueves 17/04/2025: No hay clase
+- Jueves 01/05/2025: No hay clase
+
+## Módulo 1
+
+| Fecha       | Día      | Clase Nº | Tema                                                                 | Entregas / Tareas                                                            |
+|-------------|----------|----------|----------------------------------------------------------------------|------------------------------------------------------------------------------|
+| 01/04/2025  | Martes   | 1        | Introducción a la Programación Backend                               | 📝 Repasar conceptos clave de JavaScript                                     |
+| 03/04/2025  | Jueves   | 2        | Manejo de arrays y Syntactic Sugar                                   | 📝 Repasar los conceptos vistos en JavaScript                                |
+| 08/04/2025  | Martes   | 3        | Asincronismo y promesas                                              | 🔁 Repaso de asincronismo y clases en JavaScript                             |
+| 10/04/2025  | Jueves   | 4        | Servidores web - HTTP - Manejo de errores                            | 🛠️ Practicar la ejercitación con módulo HTTP                                 |
+| 15/04/2025  | Martes   | 5        | NPM y el framework Express                                           | ⚙️ Avanzar el desafío con Express     🟢                                       |
+| 17/04/2025  | Jueves   | —        | ❌ **FERIADO **                                                     | —                                                                            |
+| 22/04/2025  | Martes   | 6        | Motores de plantillas                                                | 🧪 Crear plantilla EJS con tabla dinámica                                    |
+| 24/04/2025  | Jueves   | 7        | Rutas estáticas y dinámicas                                          | 🔍 Agregar endpoints al servidor por código y nombre                         |
+| 29/04/2025  | Martes   | 8        | Funciones de Orden Superior (HOF)                                    | 🧩 Integrar conceptos en el desafío                                          |
+| 01/05/2025  | Jueves   | -        | ❌ **FERIADO**                                                       |     —                             |
+| 06/05/2025  | Martes   | 9       | FileSystem API                                                        | 🗂️ Incorporar estructura `.JSON` al proyecto                                |
+| 08/05/2025  | Jueves   | 10       | API Restful + JSON Placeholder                                        | 🟨 **PRE-ENTREGA** del proyecto integrador                                  |
+
+
+## 🔗 Enlace al Campus
+
+El curso está alojado en el campus de YPF.  
+Podés ingresar desde este link:
+
+👉 [Campus YPF]([https://campus.ypf.com](https://campus.educalabs.org/) 
+
+---
+
+## 🤝 Comunidad
+
+No estás sola en este camino. Sumate al grupo de WhatsApp donde compartimos novedades, consultas y buena vibra ✨
+
+---
+Nos vamos a cruzar muchas veces a lo largo del curso, pero este GitHub va a ser uno de los espacios más importante para tu base de operaciones.
+
+**Nos vemos en código.**
+
+**Lisa** – *tu copilota dev 🚀*
