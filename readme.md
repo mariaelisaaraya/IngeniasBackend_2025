@@ -48,10 +48,10 @@ Pero podés usar el editor o IDE que prefieras. Lo importante es que te sientas 
 
 | Fecha       | Día      | Clase Nº | Tema                                                                 | Entregas / Tareas                                                            |
 |-------------|----------|----------|----------------------------------------------------------------------|------------------------------------------------------------------------------|
-| 01/04/2025  | Martes   | 1        | Introducción a la Programación Backend                               | 📝 Repasar conceptos clave de JavaScript                                     |
-| 03/04/2025  | Jueves   | 2        | Manejo de arrays y Syntactic Sugar                                   | 📝 Repasar los conceptos vistos en JavaScript                                |
-| 08/04/2025  | Martes   | 3        | Asincronismo y promesas                                              | 🔁 Repaso de asincronismo y clases en JavaScript                             |
-| 10/04/2025  | Jueves   | 4        | Servidores web - HTTP - Manejo de errores                            | 🛠️ Practicar la ejercitación con módulo HTTP                                 |
+| 01/04/2025  | Martes   | 1        | Introducción a la Programación Backend-**Repaso de Js**              | 📝 Repasar conceptos clave de JavaScript                                     |
+| 03/04/2025  | Jueves   | 2        | Manejo de arrays y Syntactic Sugar-**Repaso de Js**                  | 📝 Repasar los conceptos vistos en JavaScript                                |
+| 08/04/2025  | Martes   | 3        | Asincronismo y promesas-**Repaso de Js**                             | 🔁 Repaso de asincronismo y clases en JavaScript                             |
+| 10/04/2025  | Jueves   | 4        | Servidores web - HTTP - Manejo de errores-**Inicio de NodeJs**      | 🛠️ Practicar la ejercitación con módulo HTTP                                 |
 | 15/04/2025  | Martes   | 5        | NPM y el framework Express                                           | ⚙️ Avanzar el desafío con Express     🟢                                       |
 | 17/04/2025  | Jueves   | —        | ❌ **FERIADO **                                                     | —                                                                            |
 | 22/04/2025  | Martes   | 6        | Motores de plantillas                                                | 🧪 Crear plantilla EJS con tabla dinámica                                    |
