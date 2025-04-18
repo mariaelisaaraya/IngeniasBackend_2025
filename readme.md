@@ -52,7 +52,7 @@ Pero podés usar el editor o IDE que prefieras. Lo importante es que te sientas 
 | 03/04/2025  | Jueves   | 2        | Manejo de arrays y Syntactic Sugar-**Repaso de Js**                  | 📝 Repasar los conceptos vistos en JavaScript                                |
 | 08/04/2025  | Martes   | 3        | Asincronismo y promesas-**Repaso de Js**                             | 🔁 Repaso de asincronismo y clases en JavaScript                             |
 | 10/04/2025  | Jueves   | 4        | Servidores web - HTTP - Manejo de errores-**Inicio de NodeJs**      | 🛠️ Practicar la ejercitación con módulo HTTP                                 |
-| 15/04/2025  | Martes   | 5        | NPM y el framework Express                                           | ⚙️ Avanzar el desafío con Express     🟢                                       |
+| 15/04/2025  | Martes   | 5        | NPM y el framework Express                                           | ⚙️ Avanzar el desafío con Express                                        |
 | 17/04/2025  | Jueves   | —        | ❌ **FERIADO **                                                     | —                                                                            |
 | 22/04/2025  | Martes   | 6        | Motores de plantillas                                                | 🧪 Crear plantilla EJS con tabla dinámica                                    |
 | 24/04/2025  | Jueves   | 7        | Rutas estáticas y dinámicas                                          | 🔍 Agregar endpoints al servidor por código y nombre                         |
