@@ -56,8 +56,8 @@ Pero podés usar el editor o IDE que prefieras. Lo importante es que te sientas 
 | 17/04/2025  | Jueves   | —        | ❌ **FERIADO **                                                     | —                                                                            |
 | 22/04/2025  | Martes   | 6        | Motores de plantillas                                                | 🧪 Crear plantilla EJS con tabla dinámica                                    |
 | 24/04/2025  | Jueves   | 7        | Rutas estáticas y dinámicas                                          | 🔍 Agregar endpoints al servidor por código y nombre                         |
-| 29/04/2025  | Martes   | 8        | Funciones de Orden Superior (HOF)                                    | 🧩 Integrar conceptos en el desafío                                          |
-| 01/05/2025  | Jueves   | -        | ❌ **FERIADO**                                                       |     —                             |
+| 29/04/2025  | Martes   | 8        | Funciones de Orden Superior (HOF)                                    | 🧩 Integrar conceptos en el desafío 🔥 Se define la [**pre-entrega**](https://campus.educalabs.org/pluginfile.php/391404/mod_resource/content/0/Backend%20-%20Clase%2008_%20High%20Order%20Functions.pdf)              |
+| 01/05/2025  | Jueves   | -        | ❌ **FERIADO**                                                       |     —                             |**
 | 06/05/2025  | Martes   | 9       | FileSystem API                                                        | 🗂️ Incorporar estructura `.JSON` al proyecto                                |
 | 08/05/2025  | Jueves   | 10       | API Restful + JSON Placeholder                                        | 🟨 **PRE-ENTREGA** del proyecto integrador                                  |
 
@@ -67,7 +67,7 @@ Pero podés usar el editor o IDE que prefieras. Lo importante es que te sientas 
 El curso está alojado en el campus de YPF.  
 Podés ingresar desde este link:
 
-👉 [Campus YPF]([https://campus.ypf.com](https://campus.educalabs.org/) 
+👉 [Campus YPF](https://campus.ypf.com)
 
 ---
 
