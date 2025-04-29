@@ -46,9 +46,8 @@ Pero podés usar el editor o IDE que prefieras. Lo importante es que te sientas 
 
 ## Módulo 1
 
-[!IMPORTANT] 
-
-### [Json](https://github.com/mariaelisaaraya/IngeniasBackend_2025/tree/main/Modulo1/Json)
+> [!IMPORTANT]
+> ### [Json](https://github.com/mariaelisaaraya/IngeniasBackend_2025/tree/main/Modulo1/Json)
 
 | Fecha       | Día      | Clase Nº | Tema                                                                 | Entregas / Tareas                                                            |
 |-------------|----------|----------|----------------------------------------------------------------------|------------------------------------------------------------------------------|
