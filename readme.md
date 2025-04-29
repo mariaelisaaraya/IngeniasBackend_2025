@@ -46,6 +46,10 @@ Pero podés usar el editor o IDE que prefieras. Lo importante es que te sientas 
 
 ## Módulo 1
 
+[!IMPORTANT] 
+
+### [Json](https://github.com/mariaelisaaraya/IngeniasBackend_2025/tree/main/Modulo1/Json)
+
 | Fecha       | Día      | Clase Nº | Tema                                                                 | Entregas / Tareas                                                            |
 |-------------|----------|----------|----------------------------------------------------------------------|------------------------------------------------------------------------------|
 | 01/04/2025  | Martes   | 1        | Introducción a la Programación Backend-**Repaso de Js**              | 📝 Repasar conceptos clave de JavaScript                                     |
