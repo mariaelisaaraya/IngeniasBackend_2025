@@ -61,8 +61,10 @@ Pero podés usar el editor o IDE que prefieras. Lo importante es que te sientas 
 | 24/04/2025  | Jueves   | 7        | Rutas estáticas y dinámicas                                          | 🔍 Agregar endpoints al servidor por código y nombre                         |
 | 29/04/2025  | Martes   | 8        | Funciones de Orden Superior (HOF)                                    | 🧩 Integrar conceptos en el desafío 🔥 Se define la [**pre-entrega**](https://campus.educalabs.org/course/view.php?id=865&section=1)              |
 | 01/05/2025  | Jueves   | -        | ❌ **FERIADO**                                                       |     —                             |**
-| 06/05/2025  | Martes   | 9       | FileSystem API                                                        | 🗂️ Incorporar estructura `.JSON` al proyecto                                |
-| 08/05/2025  | Jueves   | 10       | API Restful + JSON Placeholder                                        | 🟨 **PRE-ENTREGA** del proyecto integrador                                  |
+| 06/05/2025  | Martes   | 9       | FileSystem API                                                         | 🗂️ Incorporar estructura `.JSON` al proyecto                                |
+| 08/05/2025  | Jueves   | 10       | API Restful + JSON Placeholder                                        | 🟨 Hacemos consultas sobre la pre entrega                                   |
+| 13/05/2025  | martes   | 11       | MongoDB I                                                             | 🟨  Hacemos consultas sobre la pre entrega                                  |
+| 15/05/2025  | Jueves   | 12       | MongoDB II                                                            | 🟩 **PRE-ENTREGA** del proyecto integrador                                  |
 
 
 ## 🔗 Enlace al Campus
