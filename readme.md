@@ -9,7 +9,7 @@
 
 ¡Bienvenidas! 👋  
 
-Soy Lisa, y este repositorio está pensado para acompañarte durante toda la cursada del Curso de Backend 2025.  
+Desde este lado de la pantalla Lisa, ¡Un gusto!, este repositorio está pensado para acompañarte durante toda la cursada del Curso de Backend 2025.  
 
 Acá vas a encontrar:
 
