@@ -60,12 +60,27 @@ Pero podés usar el editor o IDE que prefieras. Lo importante es que te sientas 
 | 22/04/2025  | Martes   | 6        | Motores de plantillas                                                | 🧪 Crear plantilla EJS con tabla dinámica                                    |
 | 24/04/2025  | Jueves   | 7        | Rutas estáticas y dinámicas                                          | 🔍 Agregar endpoints al servidor por código y nombre                         |
 | 29/04/2025  | Martes   | 8        | Funciones de Orden Superior (HOF)                                    | 🧩 Integrar conceptos en el desafío 🔥 Se define la [**pre-entrega**](https://campus.educalabs.org/course/view.php?id=865&section=1)              |
-| 01/05/2025  | Jueves   | -        | ❌ **FERIADO**                                                       |     —                             |**
+| 01/05/2025  | Jueves   | —        | ❌ **FERIADO**                                                       |     —                             |**
 | 06/05/2025  | Martes   | 9       | FileSystem API                                                         | 🗂️ Incorporar estructura `.JSON` al proyecto                                |
 | 08/05/2025  | Jueves   | 10       | API Restful + JSON Placeholder                                        | 🟨 Hacemos consultas sobre la pre entrega                                   |
-| 13/05/2025  | martes   | 11       | MongoDB I                                                             | 🟨  Hacemos consultas sobre la pre entrega                                  |
-| 15/05/2025  | Jueves   | 12       | MongoDB II                                                            | 🟩 **PRE-ENTREGA** del proyecto integrador                                  |
 
+---
+
+
+#### 🗓️ Calendario Módulo 2: Mongo DB
+
+**Inicio:** Martes 13/05/2025  
+**Clases:** Martes y jueves  
+
+
+## Módulo 2
+
+| Fecha       | Día      | Clase Nº | Tema                                                                 | Entregas / Tareas                                                            |
+|-------------|----------|----------|----------------------------------------------------------------------|------------------------------------------------------------------------------|
+| 13/05/2025  | Martes   | 11       | MongoDB I                                                             | 🟨  Hacemos consultas sobre la pre entrega                                  |
+| 15/05/2025  | Jueves   | 12       | MongoDB II                                                            | 🟩 **PRE-ENTREGA** del proyecto integrador en el excel compartido           |
+
+---
 
 ## 🔗 Enlace al Campus
 
@@ -78,7 +93,7 @@ Podés ingresar desde este link:
 
 ## 🤝 Comunidad
 
-No estás sola en este camino. Sumate al grupo de WhatsApp donde compartimos novedades, consultas y buena vibra ✨
+No estás sola en este camino. Sumate al grupo donde compartimos novedades y consultas ✨
 
 ---
 Nos vamos a cruzar muchas veces a lo largo del curso, pero este GitHub va a ser uno de los espacios más importante para tu base de operaciones.
