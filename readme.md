@@ -1,4 +1,4 @@
-# Curso de Frontend 2025 - Ingenias + YPF
+# Curso de Backend 2025 - Ingenias + YPF
 
 ![Curso](https://img.shields.io/badge/Backend-2025-blue)
 ![Modalidad](https://img.shields.io/badge/Modalidad-Online-lightgrey)
