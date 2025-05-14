@@ -78,7 +78,7 @@ Pero podés usar el editor o IDE que prefieras. Lo importante es que te sientas 
 | Fecha       | Día      | Clase Nº | Tema                                                                 | Entregas / Tareas                                                            |
 |-------------|----------|----------|----------------------------------------------------------------------|------------------------------------------------------------------------------|
 | 13/05/2025  | Martes   | 11       | MongoDB I                                                             | 🟨  Hacemos consultas sobre la pre entrega                                  |
-| 15/05/2025  | Jueves   | 12       | MongoDB II                                                            | 🟩 **PRE-ENTREGA** del proyecto integrador en el excel compartido, hasta las 18h           |
+| 15/05/2025  | Jueves   | 12       | MongoDB II                                                            | 🟩 **PRE-ENTREGA** del proyecto, hasta las 18h           |
 
 ---
 
