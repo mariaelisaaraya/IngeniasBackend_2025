@@ -78,9 +78,21 @@ Pero podés usar el editor o IDE que prefieras. Lo importante es que te sientas 
 | Fecha       | Día      | Clase Nº | Tema                                                                 | Entregas / Tareas                                                            |
 |-------------|----------|----------|----------------------------------------------------------------------|------------------------------------------------------------------------------|
 | 13/05/2025  | Martes   | 11       | MongoDB I                                                             | 🟨  Hacemos consultas sobre la pre entrega                                  |
-| 15/05/2025  | Jueves   | 12       | MongoDB II                                                            | 🟩 **PRE-ENTREGA** del proyecto, hasta las 18h            |
-| 20/05/2025  | Martes   | 13       | Conexión - Acceso a Colecciones                                       | Hacemos prácticas en clase                                 |
-| 22/05/2025  | Jueves   | 14       | Desarrollar un CRUD completo                                          |                                                            |
+| 15/05/2025  | Jueves   | 12       | MongoDB II                                                            | 🟩 **PRE-ENTREGA** del proyecto, hasta las 18h             |
+| 20/05/2025  | Martes   | 13       | Conexión - Acceso a Colecciones                                       | Hacemos prácticas en clase                                  |
+| 22/05/2025  | Jueves   | 14       | Desarrollar un CRUD completo                                          |                                                             |
+| 27/05/2025  | Martes   | 15       | JSON Web token                                                        |                                                             |
+| 29/05/2025  | Jueves   | 16       | Documentación                                                         |🟨 Hablamos de la Pre Entrega - Práctica Alumnas             |
+| 03/06/2025  | Martes   | 17       | Testing de aplicaciones backend                                       |                                                            |
+| 05/06/2025  | Jueves   | 18       | Bases de datos Relacionales- Introducción a SQL con el motor (MySQL)  |                                                            |
+| 10/06/2025  | Martes   | 19       | Bases de datos Relacionales- Tablas y tipos de datos                  | 2da PreEntrega                                            |
+| 12/06/2025  | Jueves   | 20       | Bases de datos Relacionales - El lenguaje SQL                         |                                                            |
+| 17/06/2025  | Martes   | 21       | Bases de datos Relacionales - Filtros y Operadores SQL                 |                                                            |
+| 19/06/2025  | Jueves   | 22       | Bases de datos Relacionales- Funciones escalares                       |                                                            |
+| 24/06/2025  | Martes   | 23       | Bases de datos Relacionales - El modelo relacional                     |                                  |
+| 26/05/2025  | Jueves   | 24       | Bases de datos Relacionales - Tablas combinadas en consultas SQL       |                                                            |
+| 03/07/2025  | Martes   | 25       | Bases de datos Relacionales - Funciones de agregación                  |                                  |
+| 22/07/2025  | Jueves   | 26       | Data Definition Language                                               |                                                            |
 
 ---
 
