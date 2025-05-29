@@ -90,9 +90,9 @@ Pero podés usar el editor o IDE que prefieras. Lo importante es que te sientas 
 | 17/06/2025  | Martes   | 21       | Bases de datos Relacionales - Filtros y Operadores SQL                 |                                                            |
 | 19/06/2025  | Jueves   | 22       | Bases de datos Relacionales- Funciones escalares                       |                                                            |
 | 24/06/2025  | Martes   | 23       | Bases de datos Relacionales - El modelo relacional                     |                                  |
-| 26/05/2025  | Jueves   | 24       | Bases de datos Relacionales - Tablas combinadas en consultas SQL       |                                                            |
-| 03/07/2025  | Martes   | 25       | Bases de datos Relacionales - Funciones de agregación                  |                                  |
-| 22/07/2025  | Jueves   | 26       | Data Definition Language                                               |                                                            |
+| 26/06/2025  | Jueves   | 24       | Bases de datos Relacionales - Tablas combinadas en consultas SQL       |                                                            |
+| 01/07/2025  | Martes   | 25       | Bases de datos Relacionales - Funciones de agregación                  |                                  |
+| 03/07/2025  | Jueves   | 26       | Data Definition Language                                               |                                                            |
 
 ---
 
