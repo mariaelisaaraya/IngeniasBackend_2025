@@ -75,7 +75,7 @@ Pero podés usar el editor o IDE que prefieras. Lo importante es que te sientas 
 
 ## Módulo 2
 > [!IMPORTANT]
-> ### [Trabajo 2]()
+> ### [Trabajo 2](https://github.com/mariaelisaaraya/IngeniasBackend_2025/tree/main/Modulo2/tp2)
 
 | Fecha       | Día      | Clase Nº | Tema                                                                 | Entregas / Tareas                                                            |
 |-------------|----------|----------|----------------------------------------------------------------------|------------------------------------------------------------------------------|
