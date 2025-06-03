@@ -74,6 +74,8 @@ Pero podés usar el editor o IDE que prefieras. Lo importante es que te sientas 
 
 
 ## Módulo 2
+> [!IMPORTANT]
+> ### [Trabajo 2]()
 
 | Fecha       | Día      | Clase Nº | Tema                                                                 | Entregas / Tareas                                                            |
 |-------------|----------|----------|----------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -84,6 +86,13 @@ Pero podés usar el editor o IDE que prefieras. Lo importante es que te sientas 
 | 27/05/2025  | Martes   | 15       | JSON Web token                                                        |                                                             |
 | 29/05/2025  | Jueves   | 16       | Documentación                                                         |🟨 Hablamos de la Pre Entrega - Práctica Alumnas             |
 | 03/06/2025  | Martes   | 17       | Testing de aplicaciones backend                                       |                                                            |
+
+## Módulo 3
+**Inicio:** Jueves 05/06/2025  
+**Clases:** Martes y jueves  
+
+| Fecha       | Día      | Clase Nº | Tema                                                                 | Entregas / Tareas                                                            |
+|-------------|----------|----------|----------------------------------------------------------------------|------------------------------------------------------------------------------|
 | 05/06/2025  | Jueves   | 18       | Bases de datos Relacionales- Introducción a SQL con el motor (MySQL)  |                                                            |
 | 10/06/2025  | Martes   | 19       | Bases de datos Relacionales- Tablas y tipos de datos                  | 2da PreEntrega                                            |
 | 12/06/2025  | Jueves   | 20       | Bases de datos Relacionales - El lenguaje SQL                         |                                                            |
