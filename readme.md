@@ -95,8 +95,8 @@ Pero podés usar el editor o IDE que prefieras. Lo importante es que te sientas 
 | Fecha       | Día      | Clase Nº | Tema                                                                 | Entregas / Tareas                                                            |
 |-------------|----------|----------|----------------------------------------------------------------------|------------------------------------------------------------------------------|
 | 05/06/2025  | Jueves   | 18       | Bases de datos Relacionales- Introducción a SQL con el motor (MySQL)  |                                                            |
-| 10/06/2025  | Martes   | 19       | Bases de datos Relacionales- Tablas y tipos de datos                  | [2da PreEntrega](https://github.com/mariaelisaaraya/IngeniasBackend_2025/tree/main/Modulo2/tp2)                                            |
-| 12/06/2025  | Jueves   | 20       | Bases de datos Relacionales - El lenguaje SQL                         |                                                            |
+| 10/06/2025  | Martes   | 19       | Bases de datos Relacionales- Tablas y tipos de datos                  |  🟨  Hacemos consultas sobre la pre entrega   - Práctica Alumnas                                            |
+| 12/06/2025  | Jueves   | 20       | Bases de datos Relacionales - El lenguaje SQL                         | 🟩 [2da PreEntrega](https://github.com/mariaelisaaraya/IngeniasBackend_2025/tree/main/Modulo2/tp2)                                                            |
 | 17/06/2025  | Martes   | 21       | Bases de datos Relacionales - Filtros y Operadores SQL                 |                                                            |
 | 19/06/2025  | Jueves   | 22       | Bases de datos Relacionales- Funciones escalares                       |                                                            |
 | 24/06/2025  | Martes   | 23       | Bases de datos Relacionales - El modelo relacional                     |                                  |
