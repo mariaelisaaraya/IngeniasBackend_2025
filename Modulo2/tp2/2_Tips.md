@@ -7,7 +7,7 @@ A continuación les quiero proporcionar una lista de tareas que la pueden hacer 
 ### Listo para Hacer:
 
 - [ ] Investigación y Planificación 
-  - [ ] Decidir la estructura de datos JSON.
+  - [ ] Leer correctamente el JSON.
   - [ ] Investigar y seleccionar datos iniciales.
 
 - [ ] Configuración del Entorno 
@@ -45,11 +45,11 @@ A continuación les quiero proporcionar una lista de tareas que la pueden hacer 
   - [ ] Corregir cualquier error identificado.
 
 - [ ] Entrega: Subida a GitHub 
-  - [ ] Subir el proyecto al repositorio GitHub de grupo.
+  - [ ] Subir el proyecto al repositorio GitHub nuevo de grupo.
   - [ ] Asegurarse de que la documentación esté completa.
 
 - [ ] Comunicación con la Profesora 
-  - [ ] Enviar el enlace del repositorio GitHub a través de un excel que será compartido el día martes 10/06.
+  - [ ] Enviar el enlace del repositorio GitHub a través de un excel que será compartido el día miércoles 11/06.
 
 - [ ] Revisión Final 
   - [ ] Verificar que todo esté listo para la Pre Entrega 02.
