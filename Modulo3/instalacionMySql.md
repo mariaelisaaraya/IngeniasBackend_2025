@@ -6,7 +6,7 @@ Para usar MySQL correctamente en Windows, necesitas instalar dos componentes cla
 
 ---
 
-## ✅ ¿Qué instalar y en qué orden?
+##  ¿Qué instalar y en qué orden?
 
 1. **Descarga el instalador completo (aprox. 353 MB):**  
    👉 [mysql-installer-community-8.0.42.0.msi](https://dev.mysql.com/downloads/installer/)  
@@ -27,10 +27,35 @@ Para usar MySQL correctamente en Windows, necesitas instalar dos componentes cla
 
 ---
 
-## ✅ ¿Por qué son dos componentes?
+## ¿Por qué son dos componentes?
 
 - **MySQL Server:** motor que guarda y procesa los datos.  
 - **MySQL Workbench:** interfaz gráfica para administrar tus bases de datos sin usar solo comandos.
+
+---
+
+## 🟢 Cómo levantar MySQL en Windows
+
+### ✔️ Opción rápida: desde Servicios
+
+1. Presioná `Win + R`, escribí `services.msc` y presioná **Enter**.
+2. Buscá un servicio llamado:
+   - `MySQL`
+   - o `MySQL80` (según tu versión instalada).
+3. Clic derecho → **Iniciar** (o **Reiniciar** si ya está corriendo).
+
+👁️ **Tip:** Para que MySQL se inicie automáticamente con Windows:
+- Clic derecho → **Propiedades**
+- En **Tipo de inicio**, seleccioná **Automático**
+
+  
+### ✔️ Opción avanzada: desde Terminal (CMD o PowerShell)
+
+#### Iniciar el servicio:
+
+```bash
+net start MySQL80
+```
 
 ---
 
