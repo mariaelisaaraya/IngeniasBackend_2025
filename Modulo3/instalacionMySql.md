@@ -44,6 +44,9 @@ Para usar MySQL correctamente en Windows, necesitas instalar dos componentes cla
    - o `MySQL80` (según tu versión instalada).
 3. Clic derecho → **Iniciar** (o **Reiniciar** si ya está corriendo).
 
+![image](https://github.com/user-attachments/assets/a712b8aa-f3ed-4baa-aa5a-05d1b1196dcc)
+
+
 👁️ **Tip:** Para que MySQL se inicie automáticamente con Windows:
 - Clic derecho → **Propiedades**
 - En **Tipo de inicio**, seleccioná **Automático**
@@ -69,6 +72,9 @@ net start MySQL80
 4. (Opcional) Clic derecho → **Propiedades** → en *Tipo de inicio* seleccioná:
    - `Manual`: solo se inicia cuando vos lo activás.
    - `Deshabilitado`: no se inicia nunca automáticamente.
+
+![image](https://github.com/user-attachments/assets/affffa10-a3e0-4965-8d64-111871e6462f)
+
 
 ---
 
