@@ -11,10 +11,11 @@ Pre Entrega 02: Desarrollar una API RESTful utilizando MongoDB como base de dato
 -   8-Manejo de Errores: Garantizar la gestión adecuada de errores y retornar códigos de estado correspondientes en cada endpoint.
 
 
-### Documentación:
+### Documentación: - Se ve en la clase 16 -
 -   1-Elaborar un archivo Markdown detallando el uso de la API.
 -   2-Incluir ejemplos de código para consultas, inserciones y actualizaciones de datos.
 -   3-Agregar un resumen de la documentación al comienzo del archivo.
+-   4-Agregar diagrama por favor.
 
 ### Entrega del Trabajo:
 -   1-Subir el proyecto a un repositorio nuevo de GitHub del grupo.
