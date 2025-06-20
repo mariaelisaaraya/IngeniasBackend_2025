@@ -14,7 +14,7 @@ Pueden resolver cualquiera de los 3 ejercicios usando lógica, módulos del sist
 1. **Hacé un fork** de este repositorio.
 2. **Cloná tu fork** en tu compu.
 3. Creá una carpeta con tu nombre y apellido (todo en minúsculas y sin espacios) dentro de la carpetaPractica:  
-   Ejemplo: `tati-profe/`
+   Ejemplo: `/nombre-apellido/`
 4. Resolvé alguno de los 3 ejercicios adentro de esa carpeta.  
    Se tiene que hacer 1 archivo `.js` por ejercicio si elegis hacer todos.
 5. Cuando finalices **subí tus cambios** y vas a realizar el [**Pull Request**](https://youtu.be/nCKdihvneS0?si=ZmPNrtgHPBiXDCP4) al repositorio original antes del:
@@ -80,7 +80,7 @@ Cualquier otra ruta: con "Ruta no encontrada"
 // GET /alumnas → ["Romi", "Maria Angeles", "Lisa"]
 ```
 
-## 🧠 Recordá
+## 🧠 A recordar 
 Usar ```module.exports``` para funciones si querés que se puedan importar.
 
 No hace falta instalar nada con npm para esta práctica.
