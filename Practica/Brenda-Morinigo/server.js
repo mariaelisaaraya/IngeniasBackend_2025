@@ -13,7 +13,7 @@ app.use((req,res,next)=>{
 })
 
 app.get('/',(req,res)=>{
-    res.status(200).end(`Bienvenida al servidor de Node.js`);
+    res.status(200).end(`Bienvenidas al servidor de Node.js`);
 })
 
 app.get('/alumnas', (req, res) => {
