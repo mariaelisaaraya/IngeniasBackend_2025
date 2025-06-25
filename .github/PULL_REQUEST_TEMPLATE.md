@@ -6,7 +6,7 @@ Por favor completar la siguiente info para que pueda revisar mejor tu entrega:
 
 - [ ] Ejercicio 1 – Suma de ganancias
 - [ ] Ejercicio 2 – Registro de visitas
-- [] Ejercicio 3 – Servidor HTTP
+- [ ] Ejercicio 3 – Servidor HTTP
 
 #### 📋 Control previo al entregar:
 - [ ] El código está dentro de la carpeta correspondiente
