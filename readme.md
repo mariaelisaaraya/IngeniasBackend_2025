@@ -102,7 +102,7 @@ Pero podés usar el editor o IDE que prefieras. Lo importante es que te sientas 
 | 24/06/2025  | Martes   | 23       | Bases de datos Relacionales - El modelo relacional                     |                                  |
 | 26/06/2025  | Jueves   | 24       | Bases de datos Relacionales - Tablas combinadas en consultas SQL       |                                                            |
 | 01/07/2025  | Martes   | 25       | Bases de datos Relacionales - Funciones de agregación                  |                                  |
-| 03/07/2025  | Jueves   | 26       | DDL: Creación y Modificación de Tablas      |                                                            |
+| 03/07/2025  | Jueves   | 26       | DDL: Creación y Modificación de Tablas                       | Hoy se ve Clase 26 y Clase 27                                |
 | 08/07/2025  | Martes   | 27       | DML: Inserción, Actualización y Eliminación de Datos  |                                                            |
 | 10/07/2025  | Jueves   | 28       | Desarrollo de un Modelo Relacional      |                                                            |
 | 15/07/2025  | Martes   | 29       | Sequelize y Node JS para APIs RESTful  |                                                            |
