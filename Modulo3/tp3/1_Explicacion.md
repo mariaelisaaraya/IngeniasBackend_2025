@@ -2,11 +2,12 @@
 
 ## 🧑‍🤝‍🧑 Trabajo en equipo – Presentación obligatoria en la clase 32
 
-🔹 **Equipos de 2 a 3 integrantes**  
-    - Por favor colocar los equipos en el siguiente excel antes del martes 08/07/2025
-🔹 **Presentación en vivo y obligatoria** 
-🔹 Si un/a integrante **falta**, debe avisar con anticipación para **reagendar la presentación en la clase 31**  
-🔹 **Feedback en vivo durante la clase**
+- **Equipos de 2 a 3 integrantes**  
+    - Por favor colocar los equipos en el siguiente [excel](https://docs.google.com/spreadsheets/d/1bKcMLfRZ8ddb15BhvOJR22SpZVSHOzDlKyFb10HrWV8/edit?usp=sharing) antes del martes 08/07/2025
+    
+- **Presentación en vivo y obligatoria** 
+- Si una integrante **falta**, debe avisar con anticipación para **reagendar la presentación en la clase 31**  
+- **Feedback en vivo durante la clase**
 
 ---
 
@@ -70,6 +71,7 @@ Deberán desarrollar y ejecutar las siguientes consultas SQL:
 
 ---
 
-🎓 **¡Este trabajo es integrador y representa la aplicación práctica de los temas vistos en el módulo!**  
-Se evaluará el modelo relacional, la normalización, la correcta escritura de las consultas y la presentación en clase.
+🎓 **Este trabajo es integrador y representa la aplicación práctica de los temas vistos en la cursada**
+
+Se va a estar evaluando el modelo relacional, la normalización, la correcta escritura de las consultas y la presentación en clase del equipo.
 
