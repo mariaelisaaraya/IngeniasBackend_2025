@@ -14,5 +14,5 @@ Por favor completar la siguiente info para que pueda revisar mejor tu entrega:
 - [ ] Agregué comentarios donde puede no ser claro el razonamiento
 - [ ] El código no genera errores ni advertencias
 
->📁 Formato de entrega sugerido:
+>📁 Formato de entrega sugerido:   
 Cada ejercicio debe ir en un archivo separado dentro de tu carpeta
