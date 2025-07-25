@@ -3,11 +3,133 @@
 ![Curso](https://img.shields.io/badge/Backend-2025-blue)
 ![Modalidad](https://img.shields.io/badge/Modalidad-Online-lightgrey)
 ![CopilotaDev](https://img.shields.io/badge/CopilotaDev-Lisa-purple)
-![Estado](https://img.shields.io/badge/Estado-Activo-brightgreen)
+![Estado](https://img.shields.io/badge/Estado-Culminado-brightgreen)
 
 ---
 
-¡Bienvenidas! 👋  
+## 👩‍💻 Alumnas Aprobadas – Trailerflix Backend 👩‍💻
+
+---
+
+#### 👋 Equipo 1 ✨
+
+- [Romina Iurchik](https://github.com/romina-iurchik/FinalBackend)  
+- [Beverly J. L. González Casanova](https://github.com/licette32) 
+- [Mariana Jobse](https://github.com/marJobse)
+  
+Este proyecto es notable por su claridad, lo convierte en un excelente punto de partida para cualquier developer, un diferencial clave es la presentación ordenada de los endpoints, lo que facilita enormemente la comprensión de la API sin necesidad de indagar en el código.
+
+<img width="866" height="234" alt="image" src="https://github.com/user-attachments/assets/13c11204-bb67-4437-bfc7-1a1d6ca17f8c" />
+
+---
+
+### 👋 Equipo 2 ✨
+
+- [Sofia D'Ascanio](https://github.com/sofidascanio/trailerflix-ingenias)  
+- [María de los Angeles Rechach](https://github.com/ange-r) 
+- [Mylek Yanina Anahi](https://github.com/NinaLek)
+
+Este repositorio sobresale por su excelente visualización del modelo de datos, la inclusión directa de un diagrama ER (Entidad-Relación) es un gran diferenciador, ya que permite comprender la estructura de la base de datos de un vistazo.
+
+<img width="846" height="443" alt="image" src="https://github.com/user-attachments/assets/7758cc6e-79fd-460d-b3e5-72829c57bea9" />
+
+---
+
+### 👋 Equipo 3 ✨
+
+- [Agustina Rojas](https://github.com/agusrnfr/api-trailerflix)  
+- [Agostina Paoletti](https://github.com/Chinapaoletti/trailerflix-api)
+
+Las fortalezas del repositorio de ellas radica en su amplia funcionalidad, cuenta con endpoints protegidos para la administración de contenido, garantizando la seguridad. Su estructura clara y la visión SQL unificada facilitan la gestión de datos, realmente se destaca como un proyecto final de curso bien desarrollado y práctico.
+
+<img width="857" height="823" alt="image" src="https://github.com/user-attachments/assets/3dcd2f03-de30-40a3-8521-3a0e38b4fa5b" />
+
+---
+
+### 👋 Equipo 4 ✨
+
+- [Maira Belen Masdea](https://github.com/Maira-MSD/TP3-Backend-Ingenias)  
+- [Yesica Agata Finocchio](https://github.com/YESICAFINOCCHIO)
+- [Valeria Durruty](https://github.com/ValeriaDurruty)
+
+Este proyecto también enfatiza la aplicación de buenas prácticas de desarrollo en los manejos de errores y variables de entorno.
+
+<img width="858" height="299" alt="image" src="https://github.com/user-attachments/assets/35101890-97a3-472e-ac26-da4134348929" />
+
+---
+
+### 👋 Equipo 5 ✨
+
+- [Monica Zuluaga](https://github.com/MoniZuluagaP/EntregaFinal-TrailerFlix)  
+- [Silvia Urzagasti](https://github.com/silUrzagasti)
+
+El diferencial de este repositorio reside en su excelente documentación y facilidad de puesta en marcha, incluyendo un archivo .sql para importación directa de la base de datos y un Diagrama Entidad-Relación (DER) detallado que clarifica su estructura, más una vista central del proyecto completo. Ellas utilizaron railway y su proyecto con todos sus endpoints se encuentran funcionales, reciclaron código y lo utilizaron en la entrega final.
+  
+<img width="660" height="573" alt="image" src="https://github.com/user-attachments/assets/3e0c5de8-6ba8-4fc7-916d-9c44b78cd525" />
+
+
+---
+
+### 👋 Equipo 6 ✨
+
+- [Lizeth Leoneth Ordoñez Trujillo](https://github.com/MoniZuluagaP/EntregaFinal-TrailerFlix)
+
+El diferencial del repositorio de Lizeth es notable por ser un trabajo individual impecable. Pese a trabajar sola, su proyecto funciona a la perfección, es sumamente comprensible gracias a un código bien estructurado, y demuestra una dedicación excepcional tanto en la implementación como en la presentación.
+
+<img width="899" height="510" alt="image" src="https://github.com/user-attachments/assets/0f512c88-f710-4cdb-8e45-d44c0112cea9" />
+
+---
+
+### 👋 Equipo 7 ✨
+
+- [Daiana Alegre](https://github.com/DaianaALEGRE/ingenias)  
+- [Brenda Morinigo](https://github.com/brendamorinigo)
+
+
+En este caso Dai y Brenda se enfocaron en una gestión integral y detallada de contenido audiovisual, abarcando trailers, actores, géneros y categorías, y sus relaciones, lo que lo hace ideal para una plataforma de catálogo.
+
+<img width="857" height="191" alt="image" src="https://github.com/user-attachments/assets/52478e4d-8107-46be-b560-56b47b7781fd" />
+
+
+---
+
+### 👋 Equipo 8 ✨
+
+- [Yessica Sikiu Erazo Leon](https://github.com/Sikiuerazo95/API.TRAILERFLIX)  
+- [Araceli Santamaria](https://github.com/aracelisantamaria)
+
+
+En este caso ellas se centraron en su vista unificada contenido_completo, que simplifica la consulta de datos complejos al consolidar información de diversas tablas. Realmente se destaca por un diseño RESTful API intencional optimizado para la gestión de catálogos de series y películas.
+
+<img width="834" height="542" alt="image" src="https://github.com/user-attachments/assets/524370ec-ba27-4cf7-8102-280d08b51cd4" />
+
+---
+
+### 👋 Equipo 9 ✨
+
+- [Andrea Judith Junes ](https://github.com/AndJunes/TrailerFlixFinal)  
+- Marta Mariana Domínguez
+- Ana María Márquez
+
+En este caso el equipo se destaca por sus endpoints de filtrado muy específicos, permitiendo buscar por género, tipo de contenido o series con más de tres temporadas. Incluye una clara indicación del uso de MySQL Workbench para la gestión de la base de datos.
+
+<img width="852" height="525" alt="image" src="https://github.com/user-attachments/assets/5b922dfa-6488-4689-aa97-e25627a61095" />
+
+---
+
+### 👋 Equipo 10 ✨
+
+- [Milagros Razuc](https://github.com/milagros-razuc/Trailerflix)  
+- [María Rebeca Ozuna Torres](https://github.com/becca221b) 
+
+Este equipo fue el final de todas las presentaciones y su punto más fuerte es el manejo robusto de errores en operaciones CRUD y la claridad excepcional de su documentación, incluyendo un diagrama de flujo detallado para el endpoint de creación de productos, lo que facilita enormemente su comprensión. El código es funcional, comprensible y demuestra una dedicación en su diseño y la aplicación de buenas prácticas.
+
+<img width="835" height="309" alt="image" src="https://github.com/user-attachments/assets/d177eb52-1ab6-4f57-b537-5e18fa4d4dfe" />
+
+
+---
+
+¡Bienvenidas! 👋  - Esto era el comienzo - Ahora es el final 😉
 
 Desde este lado de la pantalla Lisa, ¡Un gusto!, este repositorio está pensado para acompañarte durante toda la cursada del Curso de Backend 2025.  
 
