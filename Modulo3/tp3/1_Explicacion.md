@@ -3,7 +3,7 @@
 ## 🧑‍🤝‍🧑 Trabajo en equipo – Presentación obligatoria en la clase 32
 
 - **Equipos de 2 a 3 integrantes**  
-    - Por favor colocar los equipos en el siguiente [excel](https://docs.google.com/spreadsheets/d/1bKcMLfRZ8ddb15BhvOJR22SpZVSHOzDlKyFb10HrWV8/edit?usp=sharing) antes del martes 08/07/2025
+    - Por favor colocar los equipos en el siguiente el excel(se fue a mejor vida) antes del martes 08/07/2025
     
 - **Presentación en vivo y obligatoria** 
 - Si una integrante **falta**, debe avisar con anticipación para **reagendar la presentación en la clase 31**  
